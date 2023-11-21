@@ -1,0 +1,4 @@
+tensorflow
+pre-commit
+black
+isort

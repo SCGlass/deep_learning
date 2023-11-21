@@ -2,3 +2,4 @@ tensorflow
 pre-commit
 black
 isort
+ipykernel

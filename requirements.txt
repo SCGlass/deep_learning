@@ -3,3 +3,5 @@ pre-commit
 black
 isort
 ipykernel
+numpy
+matplotlib

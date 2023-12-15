@@ -10,3 +10,4 @@ pillow
 keras-tuner
 pandas
 nltk
+h5py

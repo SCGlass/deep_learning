@@ -162,6 +162,5 @@ cython_debug/
 /material
 /Data
 /tuner_results
-/fine_tuner_results
 /best_model
 /tuner_results_2

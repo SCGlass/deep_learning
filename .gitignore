@@ -164,3 +164,4 @@ cython_debug/
 /tuner_results
 /best_model
 /tuner_results_2
+/Lab_RNN/Data

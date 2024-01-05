@@ -13,3 +13,6 @@ nltk
 h5py
 gymnasium
 IPython
+nlpaug
+torch
+transformers

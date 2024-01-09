@@ -167,3 +167,4 @@ cython_debug/
 /Lab_RNN/Data
 /Lab_RNN/model_save
 /tuner_results_RNN
+/project/Data

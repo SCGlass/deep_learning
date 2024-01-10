@@ -16,3 +16,5 @@ IPython
 nlpaug
 torch
 transformers
+openai
+python-dotenv

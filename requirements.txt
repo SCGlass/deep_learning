@@ -19,3 +19,5 @@ transformers
 openai
 python-dotenv
 seaborn
+textblob
+autocorrect

@@ -170,3 +170,5 @@ cython_debug/
 /project/Data
 /Lab_RNN/tuner_results_RNN
 /Lab_RNN/final_model
+/project/model_save_opinion
+/project/model_save_target_ident

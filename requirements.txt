@@ -21,3 +21,4 @@ python-dotenv
 seaborn
 textblob
 autocorrect
+pydot
